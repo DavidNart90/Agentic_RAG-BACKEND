@@ -1,0 +1,3476 @@
+[
+  {
+    "id": "333-Florida-St,-San-Antonio,-TX-78210",
+    "formattedAddress": "333 Florida St, San Antonio, TX 78210",
+    "addressLine1": "333 Florida St",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78210",
+    "county": "Bexar",
+    "latitude": 29.407553,
+    "longitude": -98.481689,
+    "propertyType": "Multi-Family",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "squareFootage": 1800,
+    "lotSize": 7841,
+    "yearBuilt": 1927,
+    "status": "Active",
+    "price": 750000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.252Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851140",
+    "listingAgent": {
+      "name": "Lisa Blanco",
+      "phone": "2102162696",
+      "email": "lisablancorealtor@gmail.com",
+      "website": "http://lisablancorealtor.com"
+    },
+    "listingOffice": {
+      "name": "Compass RE Texas",
+      "phone": "2103616000",
+      "email": "realtor@realtysanantonio.com",
+      "website": "http://www.realtysanantonio.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 750000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "7-W-21st-St,-Apt-1906,-New-York,-NY-10010",
+    "formattedAddress": "7 W 21st St, Apt 1906, New York, NY 10010",
+    "addressLine1": "7 W 21st St",
+    "addressLine2": "Apt 1906",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10010",
+    "county": "New York",
+    "latitude": 40.740943,
+    "longitude": -73.991128,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 900,
+    "status": "Active",
+    "price": 12138,
+    "listingType": "Standard",
+    "listedDate": "2023-10-27T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2019-06-20T15:22:40.103Z",
+    "lastSeenDate": "2025-07-16T05:18:15.155Z",
+    "daysOnMarket": 629,
+    "history": {
+      "2023-10-27": {
+        "event": "Rental Listing",
+        "price": 12138,
+        "listingType": "Standard",
+        "listedDate": "2023-10-27T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 629
+      }
+    }
+  },
+  {
+    "id": "24727-Bogey-Rdg,-San-Antonio,-TX-78260",
+    "formattedAddress": "24727 Bogey Rdg, San Antonio, TX 78260",
+    "addressLine1": "24727 Bogey Rdg",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78260",
+    "county": "Bexar",
+    "latitude": 29.672808,
+    "longitude": -98.483641,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "squareFootage": 4479,
+    "lotSize": 21693,
+    "yearBuilt": 2000,
+    "hoa": {
+      "fee": 162
+    },
+    "status": "Active",
+    "price": 809900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.252Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851075",
+    "listingAgent": {
+      "name": "Missy Stagers",
+      "phone": "2102748753",
+      "email": "missy@msrpsa.com",
+      "website": "https://mstagersrealtypartners.com/"
+    },
+    "listingOffice": {
+      "name": "M. Stagers Realty Partners",
+      "phone": "2103055665",
+      "email": "info@mstagersandpartners.com",
+      "website": "mstagersrealtypartners.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 809900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "118-Brittany,-Olmos-Park,-TX-78212",
+    "formattedAddress": "118 Brittany, Olmos Park, TX 78212",
+    "addressLine1": "118 Brittany",
+    "addressLine2": null,
+    "city": "Olmos Park",
+    "state": "TX",
+    "zipCode": "78212",
+    "county": "Bexar",
+    "latitude": 29.476141,
+    "longitude": -98.490763,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 4194,
+    "lotSize": 12197,
+    "yearBuilt": 1936,
+    "status": "Active",
+    "price": 1990000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.251Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851123",
+    "listingAgent": {
+      "name": "Kerri Hoermann",
+      "phone": "2102607722",
+      "email": "kerri@kerrirealestate.com",
+      "website": "http://www.kerrirealestate.com"
+    },
+    "listingOffice": {
+      "name": "Kerri Real Estate LLC",
+      "phone": "2102607722",
+      "email": "kerri@kerrirealestate.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 1990000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "2202-Virginia-Blvd,-Unit-201,-San-Antonio,-TX-78203",
+    "formattedAddress": "2202 Virginia Blvd, Unit 201, San Antonio, TX 78203",
+    "addressLine1": "2202 Virginia Blvd",
+    "addressLine2": "Unit 201",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78203",
+    "county": "Bexar",
+    "latitude": 29.410629,
+    "longitude": -98.450699,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1713,
+    "lotSize": 6098,
+    "yearBuilt": 2024,
+    "status": "Active",
+    "price": 265000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.251Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851142",
+    "listingAgent": {
+      "name": "Gilley Mendoza",
+      "phone": "2104451384",
+      "email": "gilley@gilleyinternational.com",
+      "website": "http://www.gilleyinternationalgroup.com"
+    },
+    "listingOffice": {
+      "name": "Real Broker, Llc",
+      "phone": "8554500442",
+      "email": "support@therealbrokerage.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 265000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "258-Chesswood-Dr,-San-Antonio,-TX-78228",
+    "formattedAddress": "258 Chesswood Dr, San Antonio, TX 78228",
+    "addressLine1": "258 Chesswood Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78228",
+    "county": "Bexar",
+    "latitude": 29.482439,
+    "longitude": -98.579471,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 1870,
+    "lotSize": 8494,
+    "yearBuilt": 1960,
+    "status": "Active",
+    "price": 249500,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.250Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850939",
+    "listingAgent": {
+      "name": "Veronica Pritchett",
+      "phone": "5122130195"
+    },
+    "listingOffice": {
+      "name": "StepStone Realty, LLC",
+      "phone": "2107873395"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 249500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "114-Wolf-Pr,-Universal-City,-TX-78148",
+    "formattedAddress": "114 Wolf Pr, Universal City, TX 78148",
+    "addressLine1": "114 Wolf Pr",
+    "addressLine2": null,
+    "city": "Universal City",
+    "state": "TX",
+    "zipCode": "78148",
+    "county": "Bexar",
+    "latitude": 29.561208,
+    "longitude": -98.306766,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1948,
+    "lotSize": 10411,
+    "yearBuilt": 1983,
+    "status": "Active",
+    "price": 274500,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-21T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.250Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851222",
+    "listingAgent": {
+      "name": "Joy Collins",
+      "phone": "2106580928",
+      "email": "jgcollins@peoplepc.com"
+    },
+    "listingOffice": {
+      "name": "Tucker Co, REALTORS",
+      "phone": "2106580928",
+      "email": "richard.prater@era.com",
+      "website": "www.eratucker.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 274500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "29736-No-Le-Hace-Dr,-Fair-Oaks-Ranch,-TX-78015",
+    "formattedAddress": "29736 No Le Hace Dr, Fair Oaks Ranch, TX 78015",
+    "addressLine1": "29736 No Le Hace Dr",
+    "addressLine2": null,
+    "city": "Fair Oaks Ranch",
+    "state": "TX",
+    "zipCode": "78015",
+    "county": "Bexar",
+    "latitude": 29.741424,
+    "longitude": -98.625322,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2629,
+    "lotSize": 23522,
+    "yearBuilt": 1999,
+    "hoa": {
+      "fee": 10
+    },
+    "status": "Active",
+    "price": 690000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-05-08T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.249Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850967",
+    "listingAgent": {
+      "name": "Faira L Stevick",
+      "phone": "2108598777",
+      "email": "fstevick@kw.com",
+      "website": "http://www.fairastevick.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "djones@wandjlaw.com"
+    },
+    "history": {
+      "2024-05-08": {
+        "event": "Sale Listing",
+        "price": 750000,
+        "listingType": "Standard",
+        "listedDate": "2024-05-08T00:00:00.000Z",
+        "removedDate": "2024-10-01T00:00:00.000Z",
+        "daysOnMarket": 146
+      },
+      "2024-11-01": {
+        "event": "Sale Listing",
+        "price": 745000,
+        "listingType": "Standard",
+        "listedDate": "2024-11-01T00:00:00.000Z",
+        "removedDate": "2025-02-11T00:00:00.000Z",
+        "daysOnMarket": 102
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 690000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "3927-Deep-Riv,-San-Antonio,-TX-78253",
+    "formattedAddress": "3927 Deep Riv, San Antonio, TX 78253",
+    "addressLine1": "3927 Deep Riv",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.471795,
+    "longitude": -98.740887,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1979,
+    "lotSize": 5924,
+    "yearBuilt": 2014,
+    "hoa": {
+      "fee": 168
+    },
+    "status": "Active",
+    "price": 365000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-05-18T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.249Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850973",
+    "listingAgent": {
+      "name": "Jennifer Wilson",
+      "phone": "2106214153",
+      "email": "realtorjenniferwilson@gmail.com",
+      "website": "http://www.txdreamhouse.com"
+    },
+    "listingOffice": {
+      "name": "Redefining Home Real Estate",
+      "phone": "2106214153",
+      "email": "jennifer@redefininghomesa.com",
+      "website": "www.txdreamhouse.com"
+    },
+    "history": {
+      "2024-05-17": {
+        "event": "Sale Listing",
+        "price": 384900,
+        "listingType": "Standard",
+        "listedDate": "2024-05-17T00:00:00.000Z",
+        "removedDate": "2024-12-01T00:00:00.000Z",
+        "daysOnMarket": 198
+      },
+      "2024-12-05": {
+        "event": "Sale Listing",
+        "price": 384900,
+        "listingType": "Standard",
+        "listedDate": "2024-12-05T00:00:00.000Z",
+        "removedDate": "2025-03-13T00:00:00.000Z",
+        "daysOnMarket": 98
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 365000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "154-Westknoll-Dr,-San-Antonio,-TX-78227",
+    "formattedAddress": "154 Westknoll Dr, San Antonio, TX 78227",
+    "addressLine1": "154 Westknoll Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78227",
+    "county": "Bexar",
+    "latitude": 29.408738,
+    "longitude": -98.634969,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1008,
+    "lotSize": 6534,
+    "yearBuilt": 1960,
+    "status": "Active",
+    "price": 119900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.248Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851035",
+    "listingAgent": {
+      "name": "Henry Parrilla",
+      "phone": "2103938920",
+      "email": "henrylee48@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Kingsland Properties",
+      "phone": "2103938920",
+      "email": "henry@henrypena.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 119900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "126-Lantana-Way,-San-Antonio,-TX-78258",
+    "formattedAddress": "126 Lantana Way, San Antonio, TX 78258",
+    "addressLine1": "126 Lantana Way",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78258",
+    "county": "Bexar",
+    "latitude": 29.659581,
+    "longitude": -98.486631,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 3641,
+    "lotSize": 9322,
+    "yearBuilt": 2004,
+    "hoa": {
+      "fee": 223
+    },
+    "status": "Active",
+    "price": 774900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.248Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850982",
+    "listingAgent": {
+      "name": "Mary Hall, Agent",
+      "phone": "2104823227",
+      "email": "thehallteam@kw.com",
+      "website": "http://www.hallfamilyhomessa.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Legacy",
+      "phone": "2104823200",
+      "email": "stevengragg@kw.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 774900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "12322-Magnolia-Spg,-San-Antonio,-TX-78253",
+    "formattedAddress": "12322 Magnolia Spg, San Antonio, TX 78253",
+    "addressLine1": "12322 Magnolia Spg",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.485703,
+    "longitude": -98.738655,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 3487,
+    "lotSize": 8276,
+    "yearBuilt": 2014,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 469000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2020-09-22T02:42:28.753Z",
+    "lastSeenDate": "2025-07-16T14:35:15.247Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850963",
+    "listingAgent": {
+      "name": "Nancy T Brown",
+      "phone": "2105170382",
+      "email": "peachesbrowntherealtor@gmail.com",
+      "website": "http://www.peachessellstexas.com"
+    },
+    "listingOffice": {
+      "name": "Orchard  ",
+      "phone": "8448191373",
+      "email": "hello@orchardhomes.com",
+      "website": "http://www.orchardhomes.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 469000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "18-Weathering-Crk,-Leon-Valley,-TX-78238",
+    "formattedAddress": "18 Weathering Crk, Leon Valley, TX 78238",
+    "addressLine1": "18 Weathering Crk",
+    "addressLine2": null,
+    "city": "Leon Valley",
+    "state": "TX",
+    "zipCode": "78238",
+    "county": "Bexar",
+    "latitude": 29.483186,
+    "longitude": -98.615985,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1700,
+    "lotSize": 3485,
+    "yearBuilt": 2001,
+    "hoa": {
+      "fee": 24
+    },
+    "status": "Active",
+    "price": 225000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.246Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851043",
+    "listingAgent": {
+      "name": "Shane And Clint Neal",
+      "phone": "2102943544",
+      "email": "shaneneal@kw.com",
+      "website": "http://www.mysanantoniohomesearch.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "djones@wandjlaw.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "26815-Tulip-Mdw,-Boerne,-TX-78015",
+    "formattedAddress": "26815 Tulip Mdw, Boerne, TX 78015",
+    "addressLine1": "26815 Tulip Mdw",
+    "addressLine2": null,
+    "city": "Boerne",
+    "state": "TX",
+    "zipCode": "78015",
+    "county": "Bexar",
+    "latitude": 29.699664,
+    "longitude": -98.64813,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 3106,
+    "lotSize": 6011,
+    "yearBuilt": 2014,
+    "hoa": {
+      "fee": 37
+    },
+    "status": "Active",
+    "price": 550000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.246Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850944",
+    "listingAgent": {
+      "name": "Diana Martinez",
+      "phone": "2105423650",
+      "email": "dianacmartinez@kw.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Heritage",
+      "phone": "2104933030",
+      "email": "broker@kwheritage.com",
+      "website": "http://www.kwsanantonio.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "2107-Cullum-Park,-San-Antonio,-TX-78253",
+    "formattedAddress": "2107 Cullum Park, San Antonio, TX 78253",
+    "addressLine1": "2107 Cullum Park",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.454608,
+    "longitude": -98.727067,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 3175,
+    "lotSize": 6621,
+    "yearBuilt": 2016,
+    "hoa": {
+      "fee": 94
+    },
+    "status": "Active",
+    "price": 454900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-12-19T09:32:48.149Z",
+    "lastSeenDate": "2025-07-16T14:35:15.245Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850985",
+    "listingAgent": {
+      "name": "Sherry Harlan",
+      "phone": "9797167051",
+      "email": "sherry_realestate@yahoo.com",
+      "website": "http://www.riverbendrealtygroup.net/"
+    },
+    "listingOffice": {
+      "name": "Riverbend Realty Group, LLC.",
+      "phone": "8323928654",
+      "email": "brenda010@sbcglobal.net"
+    },
+    "history": {
+      "2025-01-04": {
+        "event": "Sale Listing",
+        "price": 485000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-04T00:00:00.000Z",
+        "removedDate": "2025-01-30T00:00:00.000Z",
+        "daysOnMarket": 26
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 454900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "7256-Yucca-Pl,-San-Antonio,-TX-78253",
+    "formattedAddress": "7256 Yucca Pl, San Antonio, TX 78253",
+    "addressLine1": "7256 Yucca Pl",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.505511,
+    "longitude": -98.758812,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2190,
+    "lotSize": 5227,
+    "yearBuilt": 2021,
+    "hoa": {
+      "fee": 50
+    },
+    "status": "Active",
+    "price": 342500,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-12-05T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.245Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851065",
+    "listingAgent": {
+      "name": "Dayna Zolninger",
+      "phone": "2108891108",
+      "email": "zolningerteam@exprealty.com",
+      "website": "http://www.greatsarealestate.com/"
+    },
+    "listingOffice": {
+      "name": "LPT Realty LLC",
+      "phone": "8773662213",
+      "email": "txbrokers@lptrealty.com"
+    },
+    "history": {
+      "2024-12-04": {
+        "event": "Sale Listing",
+        "price": 340000,
+        "listingType": "Standard",
+        "listedDate": "2024-12-04T00:00:00.000Z",
+        "removedDate": "2025-02-07T00:00:00.000Z",
+        "daysOnMarket": 65
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 342500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "5827-Cripps-Pink,-San-Antonio,-TX-78252",
+    "formattedAddress": "5827 Cripps Pink, San Antonio, TX 78252",
+    "addressLine1": "5827 Cripps Pink",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78252",
+    "county": "Bexar",
+    "latitude": 29.3693,
+    "longitude": -98.6988,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1535,
+    "lotSize": 4792,
+    "yearBuilt": 2024,
+    "hoa": {
+      "fee": 46
+    },
+    "status": "Active",
+    "price": 312000,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-21T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.244Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851022",
+    "listingAgent": {
+      "name": "Rj Reyes",
+      "phone": "2108425458",
+      "email": "rjreyes@me.com",
+      "website": "http://sanantoniotexas.homes/"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Heritage",
+      "phone": "2104933030",
+      "email": "broker@kwheritage.com",
+      "website": "http://www.kwsanantonio.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 312000,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "8335-Pioneer-Fld,-San-Antonio,-TX-78253",
+    "formattedAddress": "8335 Pioneer Fld, San Antonio, TX 78253",
+    "addressLine1": "8335 Pioneer Fld",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.519466,
+    "longitude": -98.799555,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 2176,
+    "lotSize": 7405,
+    "yearBuilt": 2015,
+    "hoa": {
+      "fee": 39
+    },
+    "status": "Active",
+    "price": 350000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.243Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850926",
+    "listingAgent": {
+      "name": "Carlos Gradiz",
+      "phone": "2108960676",
+      "website": "http://www.myhomesearchsanantonio.com"
+    },
+    "listingOffice": {
+      "name": "Texas Premier Realty",
+      "phone": "2108448683",
+      "email": "dzipp@satx.rr.com",
+      "website": "https://www.darylzipp.com/"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 350000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "4227-Ametrine-Way,-San-Antonio,-TX-78245",
+    "formattedAddress": "4227 Ametrine Way, San Antonio, TX 78245",
+    "addressLine1": "4227 Ametrine Way",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78245",
+    "county": "Bexar",
+    "latitude": 29.389343,
+    "longitude": -98.693764,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2089,
+    "yearBuilt": 2025,
+    "hoa": {
+      "fee": 66
+    },
+    "status": "Active",
+    "price": 284990,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.241Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851027",
+    "listingAgent": {
+      "name": "Bradley Tiffan",
+      "phone": "2109855411"
+    },
+    "listingOffice": {
+      "name": "Legend Homes",
+      "phone": "2104020642",
+      "email": "info@bellavistahomes.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 284990,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "5118-Cactus-Thorn,-San-Antonio,-TX-78253",
+    "formattedAddress": "5118 Cactus Thorn, San Antonio, TX 78253",
+    "addressLine1": "5118 Cactus Thorn",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.48183,
+    "longitude": -98.741562,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1571,
+    "lotSize": 5314,
+    "yearBuilt": 2007,
+    "hoa": {
+      "fee": 185
+    },
+    "status": "Active",
+    "price": 319900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.240Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851192",
+    "listingAgent": {
+      "name": "Lesley Parker",
+      "phone": "2108853584"
+    },
+    "listingOffice": {
+      "name": "Land and Homes Real Estate",
+      "phone": "8309352270",
+      "email": "brad@landandhomesrealty.com",
+      "website": "www.landandhomesrealty.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 319900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "10802-Terrace-Walk,-San-Antonio,-TX-78223",
+    "formattedAddress": "10802 Terrace Walk, San Antonio, TX 78223",
+    "addressLine1": "10802 Terrace Walk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "county": "Bexar",
+    "latitude": 29.310224,
+    "longitude": -98.388752,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2278,
+    "lotSize": 7954,
+    "yearBuilt": 2007,
+    "hoa": {
+      "fee": 20
+    },
+    "status": "Active",
+    "price": 264999,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.240Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851034",
+    "listingAgent": {
+      "name": "Jason Sancho"
+    },
+    "listingOffice": {
+      "name": "LPT Realty LLC",
+      "phone": "8773662213",
+      "email": "txbrokers@lptrealty.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 264999,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "7233-Palm-Park-Blvd,-San-Antonio,-TX-78223",
+    "formattedAddress": "7233 Palm Park Blvd, San Antonio, TX 78223",
+    "addressLine1": "7233 Palm Park Blvd",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "county": "Bexar",
+    "latitude": 29.282856,
+    "longitude": -98.348997,
+    "propertyType": "Manufactured",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 800,
+    "lotSize": 16814,
+    "status": "Active",
+    "price": 157675,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-07-08T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.239Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1701770",
+    "listingAgent": {
+      "name": "Nick Zapiain",
+      "phone": "2102740072",
+      "email": "zapiain.g@gmail.com",
+      "website": "http://www.nickzapiain.com"
+    },
+    "listingOffice": {
+      "name": "JMAT COMPANY, REALTORS",
+      "phone": "2107898001",
+      "email": "jmatte67@yahoo.com"
+    },
+    "history": {
+      "2023-07-08": {
+        "event": "Sale Listing",
+        "price": 157675,
+        "listingType": "Standard",
+        "listedDate": "2023-07-08T00:00:00.000Z",
+        "removedDate": "2025-01-02T00:00:00.000Z",
+        "daysOnMarket": 544
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 157675,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "6007-Bluestem-Way,-San-Antonio,-TX-78218",
+    "formattedAddress": "6007 Bluestem Way, San Antonio, TX 78218",
+    "addressLine1": "6007 Bluestem Way",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "county": "Bexar",
+    "latitude": 29.480903,
+    "longitude": -98.367489,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1837,
+    "lotSize": 5197,
+    "yearBuilt": 2022,
+    "hoa": {
+      "fee": 38
+    },
+    "status": "Active",
+    "price": 295000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.239Z",
+    "daysOnMarket": 120,
+    "mlsName": "CentralTexas",
+    "mlsNumber": "573336",
+    "listingAgent": {
+      "name": "Exp Realty",
+      "phone": "4323524758",
+      "email": "vicki.mercer@exprealty.com",
+      "website": "https://vickimercer.exprealty.com/"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "txmls@exprealty.net"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 295000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "6630-Snow-Meadow-Dr,-Converse,-TX-78109",
+    "formattedAddress": "6630 Snow Meadow Dr, Converse, TX 78109",
+    "addressLine1": "6630 Snow Meadow Dr",
+    "addressLine2": null,
+    "city": "Converse",
+    "state": "TX",
+    "zipCode": "78109",
+    "county": "Bexar",
+    "latitude": 29.490755,
+    "longitude": -98.322496,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1520,
+    "lotSize": 6011,
+    "yearBuilt": 1992,
+    "hoa": {
+      "fee": 14
+    },
+    "status": "Active",
+    "price": 224900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-08-16T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.238Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851003",
+    "listingAgent": {
+      "name": "Justin Crisp",
+      "phone": "2107441052",
+      "email": "justincrisp1@gmail.com",
+      "website": "http://www.crisprealtygroup.com"
+    },
+    "listingOffice": {
+      "name": "Justin Crisp",
+      "phone": "2107441052",
+      "email": "justincrisp1@gmail.com",
+      "website": "www.crispteam.com"
+    },
+    "history": {
+      "2024-08-16": {
+        "event": "Sale Listing",
+        "price": 255000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-16T00:00:00.000Z",
+        "removedDate": "2024-12-19T00:00:00.000Z",
+        "daysOnMarket": 125
+      },
+      "2025-01-03": {
+        "event": "Sale Listing",
+        "price": 255000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-03T00:00:00.000Z",
+        "removedDate": "2025-03-13T00:00:00.000Z",
+        "daysOnMarket": 69
+      },
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 224900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "823-N-Trinity-St,-San-Antonio,-TX-78207",
+    "formattedAddress": "823 N Trinity St, San Antonio, TX 78207",
+    "addressLine1": "823 N Trinity St",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78207",
+    "county": "Bexar",
+    "latitude": 29.434995,
+    "longitude": -98.517167,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1064,
+    "lotSize": 8668,
+    "yearBuilt": 1954,
+    "status": "Active",
+    "price": 129000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.238Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850989",
+    "listingAgent": {
+      "name": "Cassie Gonzalez",
+      "phone": "2104590980",
+      "email": "propertieswithcass@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Ihome Realty",
+      "phone": "2106252363"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 129000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "7-Henly-Ln,-San-Antonio,-TX-78257",
+    "formattedAddress": "7 Henly Ln, San Antonio, TX 78257",
+    "addressLine1": "7 Henly Ln",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78257",
+    "county": "Bexar",
+    "latitude": 29.659504,
+    "longitude": -98.618611,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "squareFootage": 5902,
+    "lotSize": 27878,
+    "yearBuilt": 1988,
+    "hoa": {
+      "fee": 295
+    },
+    "status": "Active",
+    "price": 1160000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-10-11T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.237Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851215",
+    "listingAgent": {
+      "name": "Carolina Obregon"
+    },
+    "listingOffice": {
+      "name": "Malouff Realty, LLC",
+      "phone": "2103259807",
+      "email": "steve@malouffrealty.com"
+    },
+    "history": {
+      "2024-05-09": {
+        "event": "Sale Listing",
+        "price": 1240000,
+        "listingType": "Standard",
+        "listedDate": "2024-05-09T00:00:00.000Z",
+        "removedDate": "2024-10-17T00:00:00.000Z",
+        "daysOnMarket": 161
+      },
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 1160000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "23038-White-Hickory,-Elmendorf,-TX-78112",
+    "formattedAddress": "23038 White Hickory, Elmendorf, TX 78112",
+    "addressLine1": "23038 White Hickory",
+    "addressLine2": null,
+    "city": "Elmendorf",
+    "state": "TX",
+    "zipCode": "78112",
+    "county": "Bexar",
+    "latitude": 29.180584,
+    "longitude": -98.396899,
+    "propertyType": "Manufactured",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 942,
+    "lotSize": 20038,
+    "yearBuilt": 2014,
+    "status": "Active",
+    "price": 120000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-03-30T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.233Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851173",
+    "listingAgent": {
+      "name": "Leslie Conyers Iii",
+      "phone": "2109449927",
+      "email": "leslie.conyers@exprealty.com",
+      "website": "https://leslieconyers.exprealty.com/"
+    },
+    "listingOffice": {
+      "name": "Redbird Realty LLC",
+      "phone": "2107830100",
+      "email": "jeff@redbird-realty.com",
+      "website": "https://www.redbird-realty.com/"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 120000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "7802-Clearwater-Blvd,-Selma,-TX-78154",
+    "formattedAddress": "7802 Clearwater Blvd, Selma, TX 78154",
+    "addressLine1": "7802 Clearwater Blvd",
+    "addressLine2": null,
+    "city": "Selma",
+    "state": "TX",
+    "zipCode": "78154",
+    "county": "Bexar",
+    "latitude": 29.579187,
+    "longitude": -98.336049,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 3164,
+    "lotSize": 11326,
+    "yearBuilt": 2022,
+    "status": "Active",
+    "price": 590000,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.176Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850734",
+    "listingAgent": {
+      "name": "Rosalinda Perez-rodriguez",
+      "phone": "2108837609"
+    },
+    "listingOffice": {
+      "name": "JPAR San Antonio",
+      "phone": "2149722728",
+      "email": "leads@jpar.net",
+      "website": "https://jpar.net"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 590000,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "134-Cantrell-Dr,-San-Antonio,-TX-78221",
+    "formattedAddress": "134 Cantrell Dr, San Antonio, TX 78221",
+    "addressLine1": "134 Cantrell Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78221",
+    "county": "Bexar",
+    "latitude": 29.348377,
+    "longitude": -98.505347,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1584,
+    "lotSize": 7013,
+    "yearBuilt": 1964,
+    "status": "Active",
+    "price": 219500,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-06-02T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.172Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850775",
+    "listingAgent": {
+      "name": "Mary Belmares",
+      "phone": "2108770815",
+      "email": "mary@belmaresproperties.com"
+    },
+    "listingOffice": {
+      "name": "BELMARES PROPERTIES, L.L.C.",
+      "phone": "2108770815"
+    },
+    "history": {
+      "2024-08-20": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-20T00:00:00.000Z",
+        "removedDate": "2025-03-14T00:00:00.000Z",
+        "daysOnMarket": 206
+      },
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 219500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "8802-Star-Creek-Dr,-San-Antonio,-TX-78251",
+    "formattedAddress": "8802 Star Creek Dr, San Antonio, TX 78251",
+    "addressLine1": "8802 Star Creek Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78251",
+    "county": "Bexar",
+    "latitude": 29.46933,
+    "longitude": -98.66302,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2950,
+    "lotSize": 10803,
+    "yearBuilt": 1999,
+    "hoa": {
+      "fee": 21
+    },
+    "status": "Active",
+    "price": 355000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.172Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850768",
+    "listingAgent": {
+      "name": "Jose Luis Novelo",
+      "phone": "2104557635",
+      "email": "jose@centralmetro.com",
+      "website": "http://www.josesellssanantonio.com"
+    },
+    "listingOffice": {
+      "name": "Central Metro Realty",
+      "phone": "5124546873",
+      "email": "da@centralmetro.com",
+      "website": "www.centralmetro.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 355000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "5318-King-George-Dr,-San-Antonio,-TX-78229",
+    "formattedAddress": "5318 King George Dr, San Antonio, TX 78229",
+    "addressLine1": "5318 King George Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78229",
+    "county": "Bexar",
+    "latitude": 29.496972,
+    "longitude": -98.589791,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "squareFootage": 2374,
+    "lotSize": 10803,
+    "yearBuilt": 1968,
+    "status": "Active",
+    "price": 399999,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.171Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850790",
+    "listingAgent": {
+      "name": "Toni Sarzoza - Hablo Espanol",
+      "phone": "2102731499",
+      "email": "toni@tripointrtx.com",
+      "website": "https://tonisarzoza.tripointrtx.com/"
+    },
+    "listingOffice": {
+      "name": "TriPoint Realty LLC",
+      "phone": "2102731499",
+      "email": "tonirealtor1@gmail.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 399999,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "163-Heather-Ave,-San-Antonio,-TX-78223",
+    "formattedAddress": "163 Heather Ave, San Antonio, TX 78223",
+    "addressLine1": "163 Heather Ave",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "county": "Bexar",
+    "latitude": 29.383002,
+    "longitude": -98.449298,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1368,
+    "lotSize": 7501,
+    "yearBuilt": 1948,
+    "status": "Active",
+    "price": 199000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-06-02T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.170Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850792",
+    "listingAgent": {
+      "name": "Mary Belmares",
+      "phone": "2108770815",
+      "email": "mary@belmaresproperties.com"
+    },
+    "listingOffice": {
+      "name": "BELMARES PROPERTIES, L.L.C.",
+      "phone": "2108770815"
+    },
+    "history": {
+      "2024-08-28": {
+        "event": "Sale Listing",
+        "price": 208500,
+        "listingType": "Standard",
+        "listedDate": "2024-08-28T00:00:00.000Z",
+        "removedDate": "2025-03-14T00:00:00.000Z",
+        "daysOnMarket": 198
+      },
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 199000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "2803-Red-Diamond,-San-Antonio,-TX-78264",
+    "formattedAddress": "2803 Red Diamond, San Antonio, TX 78264",
+    "addressLine1": "2803 Red Diamond",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78264",
+    "county": "Bexar",
+    "latitude": 29.404049,
+    "longitude": -98.688965,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1483,
+    "lotSize": 4792,
+    "yearBuilt": 2024,
+    "hoa": {
+      "fee": 25
+    },
+    "status": "Active",
+    "price": 246999,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.169Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850801",
+    "listingAgent": {
+      "name": "Christopher Marti",
+      "phone": "8306601004",
+      "email": "chris@rebatehaus.com",
+      "website": "www.rebatehaus.com"
+    },
+    "listingOffice": {
+      "name": "Rebate Haus, Llc",
+      "phone": "2104047724",
+      "email": "chris@rebatehaus.com",
+      "website": "http://www.rebatehaus.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 246999,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "3747-Hideaway-Grn,-San-Antonio,-TX-78261",
+    "formattedAddress": "3747 Hideaway Grn, San Antonio, TX 78261",
+    "addressLine1": "3747 Hideaway Grn",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78261",
+    "county": "Bexar",
+    "latitude": 29.677968,
+    "longitude": -98.421787,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1196,
+    "lotSize": 4225,
+    "yearBuilt": 2008,
+    "hoa": {
+      "fee": 45
+    },
+    "status": "Active",
+    "price": 269999,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.168Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850803",
+    "listingAgent": {
+      "name": "Raquel Cunningham",
+      "phone": "2103650016"
+    },
+    "listingOffice": {
+      "name": "JBGoodwin REALTORS®, San Antonio Division",
+      "phone": "2105819050",
+      "email": "lhinsha@jbgoodwin.com",
+      "website": "http://jbgoodwin.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 269999,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "12010-Old-Onyx,-San-Antonio,-TX-78245",
+    "formattedAddress": "12010 Old Onyx, San Antonio, TX 78245",
+    "addressLine1": "12010 Old Onyx",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78245",
+    "county": "Bexar",
+    "latitude": 29.415263,
+    "longitude": -98.730848,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1705,
+    "lotSize": 5489,
+    "yearBuilt": 2020,
+    "hoa": {
+      "fee": 33
+    },
+    "status": "Active",
+    "price": 285000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.167Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850805",
+    "listingAgent": {
+      "name": "Aaron Catron",
+      "phone": "5735698419",
+      "email": "aaron@creeksiderealtygrp.com"
+    },
+    "listingOffice": {
+      "name": "RE MAX Associates",
+      "phone": "2103403000",
+      "email": "bobjacobs@remax.net",
+      "website": "www.rmasanantonio.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 285000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "1112-Muncey,-San-Antonio,-TX-78208",
+    "formattedAddress": "1112 Muncey, San Antonio, TX 78208",
+    "addressLine1": "1112 Muncey",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78208",
+    "county": "Bexar",
+    "latitude": 29.43961,
+    "longitude": -98.466827,
+    "propertyType": "Multi-Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 2080,
+    "lotSize": 6142,
+    "yearBuilt": 1920,
+    "status": "Active",
+    "price": 400000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.165Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850808",
+    "listingAgent": {
+      "name": "Hayley Shalley",
+      "phone": "9729897336",
+      "email": "hayley@kerrirealestate.com",
+      "website": "http://www.kerrirealestate.com"
+    },
+    "listingOffice": {
+      "name": "Kerri Real Estate LLC",
+      "phone": "2102607722",
+      "email": "kerri@kerrirealestate.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 400000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "4219-Ametrine-Way,-San-Antonio,-TX-78245",
+    "formattedAddress": "4219 Ametrine Way, San Antonio, TX 78245",
+    "addressLine1": "4219 Ametrine Way",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78245",
+    "county": "Bexar",
+    "latitude": 29.38953,
+    "longitude": -98.693764,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1643,
+    "lotSize": 5227,
+    "yearBuilt": 2025,
+    "hoa": {
+      "fee": 66
+    },
+    "status": "Active",
+    "price": 259900,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.152Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850823",
+    "listingAgent": {
+      "name": "Bradley Tiffan",
+      "phone": "2109855411"
+    },
+    "listingOffice": {
+      "name": "Legend Homes",
+      "phone": "2104020642",
+      "email": "info@bellavistahomes.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 259900,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "11815-Vance-Jackson-Rd,-Apt-601,-San-Antonio,-TX-78230",
+    "formattedAddress": "11815 Vance Jackson Rd, Apt 601, San Antonio, TX 78230",
+    "addressLine1": "11815 Vance Jackson Rd",
+    "addressLine2": "Apt 601",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78230",
+    "county": "Bexar",
+    "latitude": 29.549308,
+    "longitude": -98.569466,
+    "propertyType": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1.5,
+    "squareFootage": 1028,
+    "yearBuilt": 1983,
+    "hoa": {
+      "fee": 346
+    },
+    "status": "Active",
+    "price": 165000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.150Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850825",
+    "listingAgent": {
+      "name": "Maria D Ayala-gomez",
+      "phone": "2105359129",
+      "email": "mariagomez@remaxmissioncity.com"
+    },
+    "listingOffice": {
+      "name": "Vortex Realty",
+      "phone": "2106476557",
+      "email": "cb@realtyvortex.com",
+      "website": "www.vortexrealtor.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 165000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "4130-Moana-Dr,-San-Antonio,-TX-78218",
+    "formattedAddress": "4130 Moana Dr, San Antonio, TX 78218",
+    "addressLine1": "4130 Moana Dr",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "county": "Bexar",
+    "latitude": 29.493773,
+    "longitude": -98.412225,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 1420,
+    "lotSize": 7131,
+    "yearBuilt": 2024,
+    "status": "Active",
+    "price": 274900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.147Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850831",
+    "listingAgent": {
+      "name": "Olga Gallego",
+      "phone": "2104930020",
+      "email": "omgallego@hotmail.com"
+    },
+    "listingOffice": {
+      "name": "A & N Realty",
+      "phone": "2108318428"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 274900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "236-Madison,-San-Antonio,-TX-78204",
+    "formattedAddress": "236 Madison, San Antonio, TX 78204",
+    "addressLine1": "236 Madison",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78204",
+    "county": "Bexar",
+    "latitude": 29.414607,
+    "longitude": -98.491307,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 6.5,
+    "squareFootage": 3509,
+    "lotSize": 7536,
+    "yearBuilt": 1892,
+    "status": "Active",
+    "price": 1200000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-05-27T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.146Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850879",
+    "listingAgent": {
+      "name": "Lynn A. Boyd, Iii",
+      "phone": "2108635758",
+      "email": "laboyd3@aol.com",
+      "website": "http://www.lynnboyd.com"
+    },
+    "listingOffice": {
+      "name": "Phyllis Browning Company",
+      "phone": "2108247878",
+      "email": "jflournoy@gvtc.com",
+      "website": "www.phyllisbrowning.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 1200000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "902-Ruiz-St,-San-Antonio,-TX-78207",
+    "formattedAddress": "902 Ruiz St, San Antonio, TX 78207",
+    "addressLine1": "902 Ruiz St",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78207",
+    "county": "Bexar",
+    "latitude": 29.435326,
+    "longitude": -98.517025,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1150,
+    "lotSize": 5009,
+    "yearBuilt": 1911,
+    "status": "Active",
+    "price": 129000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.145Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850886",
+    "listingAgent": {
+      "name": "Cassie Gonzalez",
+      "phone": "2104590980",
+      "email": "propertieswithcass@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Ihome Realty",
+      "phone": "2106252363"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 129000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "122-Glass-Ave,-San-Antonio,-TX-78204",
+    "formattedAddress": "122 Glass Ave, San Antonio, TX 78204",
+    "addressLine1": "122 Glass Ave",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78204",
+    "county": "Bexar",
+    "latitude": 29.402162,
+    "longitude": -98.509406,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1500,
+    "lotSize": 7013,
+    "yearBuilt": 1911,
+    "status": "Active",
+    "price": 210000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.145Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850887",
+    "listingAgent": {
+      "name": "Melanie Rico",
+      "phone": "2108037369"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Legacy",
+      "phone": "2104823200",
+      "email": "stevengragg@kw.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 210000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "23304-Pepper-Cyn,-Lot-46,-San-Antonio,-TX-78255",
+    "formattedAddress": "23304 Pepper Cyn, Lot 46, San Antonio, TX 78255",
+    "addressLine1": "23304 Pepper Cyn",
+    "addressLine2": "Lot 46",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78255",
+    "county": "Bexar",
+    "latitude": 29.660973,
+    "longitude": -98.699578,
+    "propertyType": "Land",
+    "lotSize": 29316,
+    "hoa": {
+      "fee": 77
+    },
+    "status": "Active",
+    "price": 200000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.144Z",
+    "daysOnMarket": 121,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850899",
+    "listingAgent": {
+      "name": "Kara L Gilbert",
+      "phone": "2106161050",
+      "email": "kara.gilbert.tx@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Texas Property Group",
+      "phone": "2106161050",
+      "email": "kara.gilbert.tx@gmail.com"
+    },
+    "history": {
+      "2025-03-18": {
+        "event": "Sale Listing",
+        "price": 200000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "766-F-St,-Lot-4,-San-Antonio,-TX-78220",
+    "formattedAddress": "766 F St, Lot 4, San Antonio, TX 78220",
+    "addressLine1": "766 F St",
+    "addressLine2": "Lot 4",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78220",
+    "county": "Bexar",
+    "latitude": 29.408197,
+    "longitude": -98.434235,
+    "propertyType": "Land",
+    "lotSize": 8015,
+    "status": "Active",
+    "price": 46900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.143Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850909",
+    "listingAgent": {
+      "name": "Peter Gomez",
+      "phone": "2105819050",
+      "email": "peter-gomez@jbgoodwin.com"
+    },
+    "listingOffice": {
+      "name": "JBGoodwin REALTORS®, San Antonio Division",
+      "phone": "2105819050",
+      "email": "lhinsha@jbgoodwin.com",
+      "website": "http://jbgoodwin.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 46900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "502-King-Ave,-Lot-16,-San-Antonio,-TX-78211",
+    "formattedAddress": "502 King Ave, Lot 16, San Antonio, TX 78211",
+    "addressLine1": "502 King Ave",
+    "addressLine2": "Lot 16",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78211",
+    "county": "Bexar",
+    "latitude": 29.363736,
+    "longitude": -98.554382,
+    "propertyType": "Land",
+    "lotSize": 7013,
+    "status": "Active",
+    "price": 49900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-19T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.142Z",
+    "daysOnMarket": 120,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1850915",
+    "listingAgent": {
+      "name": "Peter Gomez",
+      "phone": "2105819050",
+      "email": "peter-gomez@jbgoodwin.com"
+    },
+    "listingOffice": {
+      "name": "JBGoodwin REALTORS®, San Antonio Division",
+      "phone": "2105819050",
+      "email": "lhinsha@jbgoodwin.com",
+      "website": "http://jbgoodwin.com"
+    },
+    "history": {
+      "2025-03-19": {
+        "event": "Sale Listing",
+        "price": 49900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "6502-Pecan-Acres,-San-Antonio,-TX-78240",
+    "formattedAddress": "6502 Pecan Acres, San Antonio, TX 78240",
+    "addressLine1": "6502 Pecan Acres",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78240",
+    "county": "Bexar",
+    "latitude": 29.506973,
+    "longitude": -98.617593,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 2163,
+    "lotSize": 8756,
+    "yearBuilt": 1997,
+    "hoa": {
+      "fee": 16
+    },
+    "status": "Active",
+    "price": 389000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-21T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.139Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851403",
+    "listingAgent": {
+      "name": "Tori Vendola",
+      "phone": "2103918653",
+      "email": "torivendola@yahoo.com",
+      "website": "http://www.reliancerr.com/torivendola"
+    },
+    "listingOffice": {
+      "name": "Reliance Residential Realty",
+      "phone": "8306293338",
+      "email": "information@reliancerr.com",
+      "website": "http://www.reliancerr.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 389000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "616-Wilmington-Ave,-Lot-5,-San-Antonio,-TX-78212",
+    "formattedAddress": "616 Wilmington Ave, Lot 5, San Antonio, TX 78212",
+    "addressLine1": "616 Wilmington Ave",
+    "addressLine2": "Lot 5",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78212",
+    "county": "Bexar",
+    "latitude": 29.44187,
+    "longitude": -98.487767,
+    "propertyType": "Land",
+    "lotSize": 8364,
+    "status": "Active",
+    "price": 295000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-21T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.138Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851535",
+    "listingAgent": {
+      "name": "Brandon Ramirez",
+      "phone": "2109604555",
+      "email": "brandon@benkinneyteam.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Heritage",
+      "phone": "2104933030",
+      "email": "broker@kwheritage.com",
+      "website": "http://www.kwsanantonio.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 295000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "9426-Valley-Bnd,-San-Antonio,-TX-78250",
+    "formattedAddress": "9426 Valley Bnd, San Antonio, TX 78250",
+    "addressLine1": "9426 Valley Bnd",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78250",
+    "county": "Bexar",
+    "latitude": 29.498114,
+    "longitude": -98.687938,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1668,
+    "lotSize": 6708,
+    "yearBuilt": 1982,
+    "hoa": {
+      "fee": 26
+    },
+    "status": "Active",
+    "price": 219000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-06-09T14:08:46.601Z",
+    "lastSeenDate": "2025-07-16T14:35:15.137Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1842612",
+    "listingAgent": {
+      "name": "Robert Dale Hernandez",
+      "phone": "2103815389",
+      "email": "robertdalehernandez@gmail.com",
+      "website": "http://www.kw.com/kw/agent/robertdalehernandez"
+    },
+    "listingOffice": {
+      "name": "Keller Williams City View",
+      "phone": "2106969996",
+      "email": "klrw91@kw.com",
+      "website": "http://www.kwcityview.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 219000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "114-S-San-Dario-Ave,-San-Antonio,-TX-78237",
+    "formattedAddress": "114 S San Dario Ave, San Antonio, TX 78237",
+    "addressLine1": "114 S San Dario Ave",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78237",
+    "county": "Bexar",
+    "latitude": 29.430382,
+    "longitude": -98.557431,
+    "propertyType": "Multi-Family",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 1180,
+    "lotSize": 6142,
+    "yearBuilt": 1949,
+    "status": "Active",
+    "price": 425000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-08-16T08:11:05.877Z",
+    "lastSeenDate": "2025-07-16T14:35:15.137Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851281",
+    "listingAgent": {
+      "name": "Marisa Bernal",
+      "phone": "2107728202",
+      "email": "marisa.bernal@exprealty.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "djones@wandjlaw.com"
+    },
+    "history": {
+      "2024-09-19": {
+        "event": "Sale Listing",
+        "price": 399900,
+        "listingType": "Standard",
+        "listedDate": "2024-09-19T00:00:00.000Z",
+        "removedDate": "2025-03-01T00:00:00.000Z",
+        "daysOnMarket": 163
+      },
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 425000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "434-Golden-Walk,-San-Antonio,-TX-78227",
+    "formattedAddress": "434 Golden Walk, San Antonio, TX 78227",
+    "addressLine1": "434 Golden Walk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78227",
+    "county": "Bexar",
+    "latitude": 29.388556,
+    "longitude": -98.651342,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1380,
+    "lotSize": 5489,
+    "yearBuilt": 2003,
+    "hoa": {
+      "fee": 30
+    },
+    "status": "Active",
+    "price": 225000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-02-11T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.136Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851359",
+    "listingAgent": {
+      "name": "Katie Powers",
+      "phone": "2107589343",
+      "email": "katie@katiepowersrealtor.com",
+      "website": "http://www.katiepowersrealtor.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "djones@wandjlaw.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "123-Eaton-St,-Apt-104,-San-Antonio,-TX-78209",
+    "formattedAddress": "123 Eaton St, Apt 104, San Antonio, TX 78209",
+    "addressLine1": "123 Eaton St",
+    "addressLine2": "Apt 104",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78209",
+    "county": "Bexar",
+    "latitude": 29.480364,
+    "longitude": -98.461442,
+    "propertyType": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 2130,
+    "lotSize": 20038,
+    "yearBuilt": 2008,
+    "hoa": {
+      "fee": 366
+    },
+    "status": "Active",
+    "price": 574900,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-04-18T15:24:52.196Z",
+    "lastSeenDate": "2025-07-16T14:35:15.135Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851581",
+    "listingAgent": {
+      "name": "Corina Y. Uribe",
+      "phone": "2102443501",
+      "email": "curibehomes@yahoo.com"
+    },
+    "listingOffice": {
+      "name": "Premier Realty Group",
+      "phone": "2106411400",
+      "email": "complianceprg@gmail.com",
+      "website": "www.prgpartners.com"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 574900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "13214-Club-House-Blvd,-San-Antonio,-TX-78221",
+    "formattedAddress": "13214 Club House Blvd, San Antonio, TX 78221",
+    "addressLine1": "13214 Club House Blvd",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78221",
+    "county": "Bexar",
+    "latitude": 29.288563,
+    "longitude": -98.474167,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1377,
+    "yearBuilt": 2024,
+    "hoa": {
+      "fee": 29
+    },
+    "status": "Active",
+    "price": 228704,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-02-01T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.135Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851773",
+    "listingAgent": {
+      "name": "Joe Acosta",
+      "phone": "2108805632",
+      "email": "jacosta@reallivingsa.com",
+      "website": "http://www.satexproperties.com"
+    },
+    "listingOffice": {
+      "name": "SATEX PROPERTIES",
+      "phone": "2108805632",
+      "email": "joe@satexproperties.com",
+      "website": "www.satexproperties.com"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 228704,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "502-Potomac,-San-Antonio,-TX-78202",
+    "formattedAddress": "502 Potomac, San Antonio, TX 78202",
+    "addressLine1": "502 Potomac",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78202",
+    "county": "Bexar",
+    "latitude": 29.422798,
+    "longitude": -98.465213,
+    "propertyType": "Multi-Family",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "squareFootage": 1813,
+    "lotSize": 3659,
+    "yearBuilt": 1925,
+    "status": "Active",
+    "price": 440000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-06-24T11:14:21.442Z",
+    "lastSeenDate": "2025-07-16T14:35:15.134Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851592",
+    "listingAgent": {
+      "name": "Phillip Vasquez",
+      "phone": "2108421990"
+    },
+    "listingOffice": {
+      "name": "Becker Properties, Llc",
+      "phone": "2102742774",
+      "email": "pbecker@becker-realtors.com",
+      "website": "www.becker-realtors.com"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 440000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "1401-S-Flores-St,-Apt-109,-San-Antonio,-TX-78204",
+    "formattedAddress": "1401 S Flores St, Apt 109, San Antonio, TX 78204",
+    "addressLine1": "1401 S Flores St",
+    "addressLine2": "Apt 109",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78204",
+    "county": "Bexar",
+    "latitude": 29.410439,
+    "longitude": -98.501872,
+    "propertyType": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 966,
+    "yearBuilt": 2015,
+    "hoa": {
+      "fee": 432
+    },
+    "status": "Active",
+    "price": 282000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-04-18T14:45:09.067Z",
+    "lastSeenDate": "2025-07-16T14:35:15.133Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851244",
+    "listingAgent": {
+      "name": "Jonathan Yokley, Agent",
+      "phone": "2103392791",
+      "email": "jonathan@texasroadrunnerrealty.com",
+      "website": "http://www.texasroadrunnerrealty.com"
+    },
+    "listingOffice": {
+      "name": "Texas Roadrunner Realty",
+      "phone": "2105409058"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 282000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "9232-Mccafferty-Dr,-Helotes,-TX-78023",
+    "formattedAddress": "9232 Mccafferty Dr, Helotes, TX 78023",
+    "addressLine1": "9232 Mccafferty Dr",
+    "addressLine2": null,
+    "city": "Helotes",
+    "state": "TX",
+    "zipCode": "78023",
+    "county": "Bexar",
+    "latitude": 29.575127,
+    "longitude": -98.664458,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 2096,
+    "lotSize": 7797,
+    "yearBuilt": 2003,
+    "hoa": {
+      "fee": 30
+    },
+    "status": "Active",
+    "price": 395000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-22T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.133Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851834",
+    "listingAgent": {
+      "name": "Shane And Clint Neal",
+      "phone": "2102943544",
+      "email": "shaneneal@kw.com",
+      "website": "http://www.mysanantoniohomesearch.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "djones@wandjlaw.com"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 395000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "11910-Lofted-Bloom,-Schertz,-TX-78154",
+    "formattedAddress": "11910 Lofted Bloom, Schertz, TX 78154",
+    "addressLine1": "11910 Lofted Bloom",
+    "addressLine2": null,
+    "city": "Schertz",
+    "state": "TX",
+    "zipCode": "78154",
+    "county": "Bexar",
+    "latitude": 29.502001571411988,
+    "longitude": -98.23401174970819,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2211,
+    "lotSize": 8712,
+    "yearBuilt": 2025,
+    "hoa": {
+      "fee": 85
+    },
+    "status": "Active",
+    "price": 457990,
+    "listingType": "New Construction",
+    "listedDate": "2025-03-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-07-10T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.132Z",
+    "daysOnMarket": 119,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851312",
+    "listingAgent": {
+      "name": "April Maki",
+      "phone": "5128948910"
+    },
+    "listingOffice": {
+      "name": "Brightland Homes Brokerage, LLC",
+      "phone": "5123645196",
+      "email": "rodney@rodneyhenson.com",
+      "website": "www.gehanhomes.com"
+    },
+    "history": {
+      "2025-03-20": {
+        "event": "Sale Listing",
+        "price": 457990,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "12709-Sherlock-Ln,-Schertz,-TX-78154",
+    "formattedAddress": "12709 Sherlock Ln, Schertz, TX 78154",
+    "addressLine1": "12709 Sherlock Ln",
+    "addressLine2": null,
+    "city": "Schertz",
+    "state": "TX",
+    "zipCode": "78154",
+    "county": "Bexar",
+    "latitude": 29.49593,
+    "longitude": -98.23216,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2703,
+    "lotSize": 53753,
+    "yearBuilt": 2008,
+    "status": "Active",
+    "price": 694000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-05-12T17:01:08.101Z",
+    "lastSeenDate": "2025-07-16T14:35:15.131Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851628",
+    "listingAgent": {
+      "name": "Linda Sanchez"
+    },
+    "listingOffice": {
+      "name": "Hall American Realty",
+      "phone": "2105409585",
+      "email": "chall@hallamericansa.com",
+      "website": "https://www.hallamericansa.com/"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 694000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "254-Bank-St,-San-Antonio,-TX-78204",
+    "formattedAddress": "254 Bank St, San Antonio, TX 78204",
+    "addressLine1": "254 Bank St",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78204",
+    "county": "Bexar",
+    "latitude": 29.399425,
+    "longitude": -98.499363,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1008,
+    "lotSize": 6534,
+    "yearBuilt": 1946,
+    "status": "Active",
+    "price": 285000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-03-21T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.130Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851591",
+    "listingAgent": {
+      "name": "Sandra C. Gonzalez",
+      "phone": "2102753422",
+      "email": "gosandy930@gmail.com"
+    },
+    "listingOffice": {
+      "name": "SK1 Properties, LLC",
+      "phone": "2102753422",
+      "email": "gosandy930@gmail.com"
+    },
+    "history": {
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 285000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "322-Wiggins-Crk,-San-Antonio,-TX-78253",
+    "formattedAddress": "322 Wiggins Crk, San Antonio, TX 78253",
+    "addressLine1": "322 Wiggins Crk",
+    "addressLine2": null,
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78253",
+    "county": "Bexar",
+    "latitude": 29.435626,
+    "longitude": -98.716741,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1426,
+    "lotSize": 5401,
+    "yearBuilt": 2001,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 240000,
+    "listingType": "Standard",
+    "listedDate": "2025-03-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-08-06T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T14:35:15.129Z",
+    "daysOnMarket": 118,
+    "mlsName": "SanAntonio",
+    "mlsNumber": "1851800",
+    "listingAgent": {
+      "name": "Romana Disrud",
+      "phone": "2106984700",
+      "email": "rdisrud@phyllisbrowning.com"
+    },
+    "listingOffice": {
+      "name": "Phyllis Browning Company",
+      "phone": "2104082500",
+      "email": "jflournoy@gvtc.com",
+      "website": "www.phyllisbrowning.com"
+    },
+    "history": {
+      "2024-08-05": {
+        "event": "Sale Listing",
+        "price": 259000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-05T00:00:00.000Z",
+        "removedDate": "2025-01-06T00:00:00.000Z",
+        "daysOnMarket": 154
+      },
+      "2025-01-10": {
+        "event": "Sale Listing",
+        "price": 253000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-10T00:00:00.000Z",
+        "removedDate": "2025-03-09T00:00:00.000Z",
+        "daysOnMarket": 58
+      },
+      "2025-03-21": {
+        "event": "Sale Listing",
+        "price": 240000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 118
+      }
+    }
+  },
+  {
+    "id": "200-E-71st-St,-Unit-4GG,-New-York,-NY-10021",
+    "formattedAddress": "200 E 71st St, Unit 4GG, New York, NY 10021",
+    "addressLine1": "200 E 71st St",
+    "addressLine2": "Unit 4GG",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10021",
+    "county": "New York",
+    "latitude": 40.768635,
+    "longitude": -73.961021,
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 805,
+    "status": "Active",
+    "price": 5500,
+    "listingType": "Standard",
+    "listedDate": "2023-01-24T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-01-20T02:11:46.634Z",
+    "lastSeenDate": "2025-07-16T05:19:04.647Z",
+    "daysOnMarket": 905,
+    "history": {
+      "2023-01-24": {
+        "event": "Rental Listing",
+        "price": 5500,
+        "listingType": "Standard",
+        "listedDate": "2023-01-24T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 905
+      }
+    }
+  },
+  {
+    "id": "392-Central-Park-W,-Apt-12U,-New-York,-NY-10025",
+    "formattedAddress": "392 Central Park W, Apt 12U, New York, NY 10025",
+    "addressLine1": "392 Central Park W",
+    "addressLine2": "Apt 12U",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10025",
+    "county": "New York",
+    "latitude": 40.794463,
+    "longitude": -73.965087,
+    "propertyType": "Condo",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "squareFootage": 600,
+    "yearBuilt": 1960,
+    "status": "Active",
+    "price": 3000,
+    "listingType": "Standard",
+    "listedDate": "2023-01-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2020-12-04T03:38:18.927Z",
+    "lastSeenDate": "2025-07-16T05:19:04.647Z",
+    "daysOnMarket": 901,
+    "history": {
+      "2023-01-28": {
+        "event": "Rental Listing",
+        "price": 3000,
+        "listingType": "Standard",
+        "listedDate": "2023-01-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 901
+      }
+    }
+  },
+  {
+    "id": "309-5th-Ave,-Apt-31C,-New-York,-NY-10016",
+    "formattedAddress": "309 5th Ave, Apt 31C, New York, NY 10016",
+    "addressLine1": "309 5th Ave",
+    "addressLine2": "Apt 31C",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10016",
+    "county": "New York",
+    "latitude": 40.746721,
+    "longitude": -73.985316,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1200,
+    "status": "Active",
+    "price": 7200,
+    "listingType": "Standard",
+    "listedDate": "2023-01-31T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2019-05-14T12:52:42.909Z",
+    "lastSeenDate": "2025-07-16T05:19:04.646Z",
+    "daysOnMarket": 898,
+    "mlsName": "RealtyMXNYC",
+    "mlsNumber": "504702122",
+    "listingAgent": {
+      "name": "George Zdronov",
+      "phone": "9172501327",
+      "email": "gzdronov@spiregroupny.com"
+    },
+    "listingOffice": {
+      "name": "Spire Group Inc.- Main Office",
+      "phone": "2125001900",
+      "email": "info@spiregroupny.com"
+    },
+    "history": {
+      "2023-01-31": {
+        "event": "Rental Listing",
+        "price": 7200,
+        "listingType": "Standard",
+        "listedDate": "2023-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 898
+      }
+    }
+  },
+  {
+    "id": "210-Lafayette-St,-Apt-4A,-New-York,-NY-10012",
+    "formattedAddress": "210 Lafayette St, Apt 4A, New York, NY 10012",
+    "addressLine1": "210 Lafayette St",
+    "addressLine2": "Apt 4A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10012",
+    "county": "New York",
+    "latitude": 40.721764,
+    "longitude": -73.998139,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1170,
+    "yearBuilt": 2005,
+    "status": "Active",
+    "price": 11000,
+    "listingType": "Standard",
+    "listedDate": "2023-01-31T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2019-05-14T05:55:49.618Z",
+    "lastSeenDate": "2025-07-16T05:19:04.645Z",
+    "daysOnMarket": 898,
+    "mlsName": "NestSeekers",
+    "mlsNumber": "2157895",
+    "listingAgent": {
+      "name": "Peggy Zabakolas, Esq.",
+      "phone": "6469244319",
+      "email": "peggyz@nestseekers.com",
+      "website": "https://www.nestseekers.com/agent/peggy-zabakolas"
+    },
+    "listingOffice": {
+      "name": "Nest Seekers International, Midtown",
+      "phone": "2122528772",
+      "email": "info@nestseekers.com"
+    },
+    "history": {
+      "2023-01-31": {
+        "event": "Rental Listing",
+        "price": 11000,
+        "listingType": "Standard",
+        "listedDate": "2023-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 898
+      }
+    }
+  },
+  {
+    "id": "309-5th-Ave,-Apt-7E,-New-York,-NY-10016",
+    "formattedAddress": "309 5th Ave, Apt 7E, New York, NY 10016",
+    "addressLine1": "309 5th Ave",
+    "addressLine2": "Apt 7E",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10016",
+    "county": "New York",
+    "latitude": 40.746721,
+    "longitude": -73.985316,
+    "propertyType": "Apartment",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "squareFootage": 500,
+    "status": "Active",
+    "price": 4000,
+    "listingType": "Standard",
+    "listedDate": "2023-01-31T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2019-04-26T13:53:44.031Z",
+    "lastSeenDate": "2025-07-16T05:19:04.645Z",
+    "daysOnMarket": 898,
+    "mlsName": "RealtyMXNYC",
+    "mlsNumber": "504743986",
+    "listingAgent": {
+      "name": "George Zdronov",
+      "phone": "9172501327",
+      "email": "gzdronov@spiregroupny.com"
+    },
+    "listingOffice": {
+      "name": "Spire Group Inc.- Main Office",
+      "phone": "2125001900",
+      "email": "info@spiregroupny.com"
+    },
+    "history": {
+      "2023-01-31": {
+        "event": "Rental Listing",
+        "price": 4000,
+        "listingType": "Standard",
+        "listedDate": "2023-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 898
+      }
+    }
+  },
+  {
+    "id": "277-E-10th-St,-Apt-7,-New-York,-NY-10009",
+    "formattedAddress": "277 E 10th St, Apt 7, New York, NY 10009",
+    "addressLine1": "277 E 10th St",
+    "addressLine2": "Apt 7",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "county": "New York",
+    "latitude": 40.728184,
+    "longitude": -73.982796,
+    "propertyType": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 700,
+    "yearBuilt": 1910,
+    "status": "Active",
+    "price": 5995,
+    "listingType": "Standard",
+    "listedDate": "2023-02-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-02-18T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T05:19:04.644Z",
+    "daysOnMarket": 880,
+    "history": {
+      "2023-01-23": {
+        "event": "Rental Listing",
+        "price": 6295,
+        "listingType": "Standard",
+        "listedDate": "2023-01-23T00:00:00.000Z",
+        "removedDate": "2025-02-25T00:00:00.000Z",
+        "daysOnMarket": 764
+      },
+      "2023-02-18": {
+        "event": "Rental Listing",
+        "price": 5995,
+        "listingType": "Standard",
+        "listedDate": "2023-02-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 880
+      }
+    }
+  },
+  {
+    "id": "63-Pitt-St,-Apt-10A,-New-York,-NY-10002",
+    "formattedAddress": "63 Pitt St, Apt 10A, New York, NY 10002",
+    "addressLine1": "63 Pitt St",
+    "addressLine2": "Apt 10A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "county": "New York",
+    "latitude": 40.717907,
+    "longitude": -73.983055,
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "yearBuilt": 1920,
+    "status": "Active",
+    "price": 3943,
+    "listingType": "Standard",
+    "listedDate": "2023-02-24T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-09-20T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T05:19:04.644Z",
+    "daysOnMarket": 874,
+    "mlsName": "NestSeekers",
+    "mlsNumber": "2642657",
+    "listingAgent": {
+      "name": "Eric A Rivera",
+      "phone": "3474018273",
+      "email": "erivera@nestseekers.com",
+      "website": "https://www.nestseekers.com/agent/eric-a-rivera"
+    },
+    "listingOffice": {
+      "name": "Nest Seekers Long Island City - Jackson Ave",
+      "email": "bethoneyshen@nestseekers.com"
+    },
+    "history": {
+      "2023-02-24": {
+        "event": "Rental Listing",
+        "price": 3943,
+        "listingType": "Standard",
+        "listedDate": "2023-02-24T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 874
+      }
+    }
+  },
+  {
+    "id": "135-W-122nd-St,-Unit-1A,-New-York,-NY-10027",
+    "formattedAddress": "135 W 122nd St, Unit 1A, New York, NY 10027",
+    "addressLine1": "135 W 122nd St",
+    "addressLine2": "Unit 1A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10027",
+    "county": "New York",
+    "latitude": 40.80658,
+    "longitude": -73.948326,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 2100,
+    "lotSize": 2000,
+    "status": "Active",
+    "price": 5995,
+    "listingType": "Standard",
+    "listedDate": "2023-02-27T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-03-01T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T05:19:04.643Z",
+    "daysOnMarket": 871,
+    "mlsName": "NestSeekers",
+    "mlsNumber": "2644969",
+    "listingAgent": {
+      "name": "Angelo Medda",
+      "phone": "9175282691",
+      "email": "amedda@kwnyc.com"
+    },
+    "listingOffice": {
+      "name": "Nest Seekers International, Midtown",
+      "phone": "2122528772",
+      "email": "info@nestseekers.com"
+    },
+    "history": {
+      "2023-02-27": {
+        "event": "Rental Listing",
+        "price": 5995,
+        "listingType": "Standard",
+        "listedDate": "2023-02-27T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 871
+      }
+    }
+  },
+  {
+    "id": "20-W-64th-St,-Unit-24A,-New-York,-NY-10023",
+    "formattedAddress": "20 W 64th St, Unit 24A, New York, NY 10023",
+    "addressLine1": "20 W 64th St",
+    "addressLine2": "Unit 24A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10023",
+    "county": "New York",
+    "latitude": 40.771517,
+    "longitude": -73.981406,
+    "propertyType": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 588,
+    "yearBuilt": 1971,
+    "status": "Active",
+    "price": 3800,
+    "listingType": "Standard",
+    "listedDate": "2023-02-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2020-10-20T02:05:13.028Z",
+    "lastSeenDate": "2025-07-16T05:19:04.642Z",
+    "daysOnMarket": 870,
+    "history": {
+      "2023-02-28": {
+        "event": "Rental Listing",
+        "price": 3800,
+        "listingType": "Standard",
+        "listedDate": "2023-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 870
+      }
+    }
+  },
+  {
+    "id": "63-Pitt-St,-Apt-8B,-New-York,-NY-10002",
+    "formattedAddress": "63 Pitt St, Apt 8B, New York, NY 10002",
+    "addressLine1": "63 Pitt St",
+    "addressLine2": "Apt 8B",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "county": "New York",
+    "latitude": 40.717907,
+    "longitude": -73.983055,
+    "propertyType": "Apartment",
+    "bedrooms": 0,
+    "status": "Active",
+    "price": 4629,
+    "listingType": "Standard",
+    "listedDate": "2023-02-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-10-28T00:00:00.000Z",
+    "lastSeenDate": "2025-07-16T05:19:04.642Z",
+    "daysOnMarket": 870,
+    "mlsName": "NestSeekers",
+    "mlsNumber": "2645921",
+    "listingAgent": {
+      "name": "Eric A Rivera",
+      "phone": "3474018273",
+      "email": "erivera@nestseekers.com",
+      "website": "https://www.nestseekers.com/agent/eric-a-rivera"
+    },
+    "listingOffice": {
+      "name": "Nest Seekers Long Island City - Jackson Ave",
+      "email": "bethoneyshen@nestseekers.com"
+    },
+    "history": {
+      "2023-02-28": {
+        "event": "Rental Listing",
+        "price": 4629,
+        "listingType": "Standard",
+        "listedDate": "2023-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 870
+      }
+    }
+  }
+]

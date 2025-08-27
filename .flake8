@@ -1,0 +1,33 @@
+[flake8]
+max-line-length = 120
+ignore = 
+    # W293: blank line contains whitespace
+    W293,
+    # W291: trailing whitespace
+    W291,
+    # E128: continuation line under-indented for visual indent
+    E128,
+    # F401: imported but unused (for development)
+    F401
+exclude = 
+    __pycache__,
+    .git,
+    .venv,
+    venv,
+    env,
+    .env,
+    build,
+    dist,
+    *.egg-info,
+    migrations
+
+# Focus on important errors
+select = 
+    E,   # pycodestyle errors
+    W,   # pycodestyle warnings
+    F,   # pyflakes
+    C,   # complexity
+
+# Exclude some less critical warnings during development
+per-file-ignores =
+    __init__.py:F401
